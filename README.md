@@ -1,4 +1,7 @@
 # cs107-aula2-bonus
-unity | giraEmTorno, movimento de usuário e câmera, terreno
+giraEmTorno, movimento em primeira pessoa, terreno
 
-movimento de usuário com WASD, movimento de câmera com mouse
+**v1 (2020-10-09)**
+- movimento em primeira pessoa
+- terreno
+- octaedros (mesh, material, órbitas com GiraEmTorno)
